@@ -1,4 +1,4 @@
-Restrospectiva
+Restrospectiva 
 
 Start 
 • Utilizar branches para separar atividades. 
