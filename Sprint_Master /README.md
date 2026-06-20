@@ -1,4 +1,4 @@
-Sprint Master – Sistema de Gestão de Projetos de Pesquisa
+Sprint Master – Sistema de Gestão de Projetos de Pesquisa 
 
 Objetivo
 Projeto acadêmico desenvolvido para simular a aplicação do framework Scrum em um ambiente de desenvolvimento de software.
