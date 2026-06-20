@@ -1,4 +1,4 @@
-Sprint Goal
+Sprint Goal 
 
 Organizar e acompanhar projetos de pesquisa através de um sistema capaz de cadastrar, excluir, compartilhar, filtrar projetos e monitorar seu progresso.
 
